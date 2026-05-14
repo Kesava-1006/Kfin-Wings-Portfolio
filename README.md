@@ -22,6 +22,10 @@ Stored Data in LocalStorage
 Stored Token in Cookies
 <img width="1716" height="1438" alt="image" src="https://github.com/user-attachments/assets/088cddd2-567f-4997-a7a0-0705e10d8d3d" />
 
+Fetched Data from Supabase
+<img width="3200" height="1730" alt="image" src="https://github.com/user-attachments/assets/97036ff2-4fb4-450f-800b-b1310ab382a3" />
+
+
 
 
 
